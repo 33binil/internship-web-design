@@ -16,4 +16,4 @@ Create visually appealing, responsive, and user-friendly websites that enhance u
 - **VS Code** for create HTML,CSS,JS Files.
 - **Freepik Website** for downloading the images used in the website.
 
-![project interface](https://github.com/33binil/front-end-website-1/blob/main/photo_6179439989201420843_y.jpg)
+![project interface](https://github.com/33binil/internship-web-design/blob/main/photo_6186252924024373193_y.jpg)
